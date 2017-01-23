@@ -1,3 +1,9 @@
-﻿#Git spurningar og svör
-1. Hvað gera eftirfarandi Linux skipanir?
+#Git spurningar og svör
+1a. Hvað gera eftirfarandi Linux skipanir?
    "cd" lætur þig fara í home directoryið þitt (/h)
+1b. 
+   "cd ~" gerir það nákvæmlega sama og "cd"
+1c.
+   "ls" sýnir þér hvað er inni í directorýinu sem þú ert í
+1d.
+   "pwd" sýnir þér í hvaða directorýi þú ert í.
