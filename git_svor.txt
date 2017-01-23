@@ -7,3 +7,5 @@
    "ls" sýnir þér hvað er inni í directorýinu sem þú ert í
 1d.
    "pwd" sýnir þér í hvaða directorýi þú ert í.
+1e.
+   "mkdir" er notað til að búa til directory.
