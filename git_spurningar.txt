@@ -1,0 +1,8 @@
+1. Hvað gera eftirfarandi Linux skipanir?
+   "cd" lætur þig fara í home directoryið þitt (/h)
+2. 
+   "cd ~" gerir það nákvæmlega sama og "cd"
+3.
+   "ls" sýnir þér hvað er inni í directorýinu sem þú ert í
+4.
+   "pwd" sýnir þér í hvaða directorýi þú ert í.

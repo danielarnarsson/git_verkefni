@@ -1,1 +1,3 @@
-#Git spurningar og svör
+﻿#Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+   "cd" lætur þig fara í home directoryið þitt (/h)
