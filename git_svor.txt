@@ -9,3 +9,15 @@
    "pwd" sýnir þér í hvaða directorýi þú ert í.
 1e.
    "mkdir" er notað til að búa til directory.
+
+2. Hvað gera eftirfarandi git skipanir og hvers 	   vegna eru þær gagnlegar?
+2a.
+   "git clone" afritar git repository sem er núþegar til.
+2b.   
+   "git log" sýnir commits á branchinum sem þú ert á.
+2c.
+   "git status" sýnir þér allskonar statusa á gittinu, t.d. á hvaða branch þú ert á.
+2d.
+   "git diff" sýnir þér breytingar á milli file-a á gittinu.
+2e.
+   "git checkout"
