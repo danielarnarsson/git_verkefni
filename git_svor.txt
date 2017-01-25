@@ -6,19 +6,19 @@
 1c.
    "ls" sýnir þér hvað er inni í directorýinu sem þú ert í
 1d.
-   "pwd" sýnir þér í hvaða directorýi þú ert í.
+   "pwd" sýnir ther i hvada directoryi thu ert i.
 1e.
-   "mkdir" er notað til að búa til directory.
+   "mkdir" er notað til ad bua til directory.
 
-2. Hvað gera eftirfarandi git skipanir og hvers 	   vegna eru þær gagnlegar?
+2. Hvad gera eftirfarandi git skipanir og hvers vegna eru thaer gagnlegar?
 2a.
-   "git clone" afritar git repository sem er núþegar til.
+   "git clone" afritar git repository sem er nuthegar til.
 2b.   
-   "git log" sýnir commits á branchinum sem þú ert á.
+   "git log" synir commits a branchinum sem thu ert a.
 2c.
-   "git status" sýnir þér allskonar statusa á gittinu, t.d. á hvaða branch þú ert á.
+   "git status" synir ther allskonar statusa a gittinu, t.d. a hvada branch thu ert a.
 2d.
-   "git diff" sýnir þér breytingar á milli file-a á gittinu.
+   "git diff" synir ther breytingar a milli file-a á gittinu.
 2e.
    "git checkout" leyfir ther ad fara i gegnum mismunandi gerdir af verkefninu.
    Tha tharftu ad gera "git checkout (talnaruna i git log)".
