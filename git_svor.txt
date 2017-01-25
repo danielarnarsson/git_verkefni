@@ -20,4 +20,11 @@
 2d.
    "git diff" sýnir þér breytingar á milli file-a á gittinu.
 2e.
-   "git checkout"
+   "git checkout" leyfir ther ad fara i gegnum mismunandi gerdir af verkefninu.
+   Tha tharftu ad gera "git checkout (talnaruna i git log)".
+   Daemi: git checkout d722102a558ddd6c6433c16a959ef1d722f9103b
+
+3. Hver er munurinn a eftirfarandi git skipunum?
+   a. git diff synir hvad hefur breyst sidan sidasta commit
+   b. git diff --staged synir ther muninn a commitinu sem thu valdir og thvi naesta eftir thad
+   c. git diff commit1 commit2 synir ther muninn a tveimur voldum commitum
