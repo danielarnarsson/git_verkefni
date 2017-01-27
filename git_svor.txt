@@ -1,4 +1,4 @@
-#Git spurningar og svör
+﻿#Git spurningar og svör
 1a. Hvað gera eftirfarandi Linux skipanir?
    "cd" lætur þig fara í home directoryið þitt (/h)
 1b. 
@@ -28,3 +28,16 @@
    a. git diff synir hvad hefur breyst sidan sidasta commit
    b. git diff --staged synir ther muninn a commitinu sem thu valdir og thvi naesta eftir thad
    c. git diff commit1 commit2 synir ther muninn a tveimur voldum commitum
+
+4.Hvad er utgafustyring (e.version control)? 
+  Utgáfustyring er hlutur sem tekur upp breytingar a file-i/-um over time svo thu getur
+  farid i  mismunandi gerdir af sama verkefninu.
+
+5.Hverjir eru helstu kostir vid ad nota GIT?
+  t.d. thad er haegt að fara i mismunandi gerdir af verkefninu audveldlega og gerir samvinnu miklu
+  einfaldari. Thu getur lika unnid i verkefninu a nanast hvada tolvu sem er svo lengi sem thu hefur
+  internet connection/hefur downloadad thvi a git. Thad er lika haegt ad commita an thess ad hafa
+  internet.
+6.Hversu oft telur thu ad eigi að gera commit i verkefni, rokstuddu?
+  Thegar madur er buinn ad gera eitthvad mikilvaegt eda a hverjum 10-15 minutum
+  
