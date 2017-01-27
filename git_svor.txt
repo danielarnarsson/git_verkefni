@@ -38,6 +38,15 @@
   einfaldari. Thu getur lika unnid i verkefninu a nanast hvada tolvu sem er svo lengi sem thu hefur
   internet connection/hefur downloadad thvi a git. Thad er lika haegt ad commita an thess ad hafa
   internet.
+
 6.Hversu oft telur thu ad eigi að gera commit i verkefni, rokstuddu?
-  Thegar madur er buinn ad gera eitthvad mikilvaegt eda a hverjum 10-15 minutum
-  
+  Thegar madur er buinn ad gera eitthvad mikilvaegt (thvi ad thad er skemmtilegra og tha vita
+  vinnufelagar hvad thu ert buinn ad gera og hvad their thurfa ekki ad gera) eda a hverjum
+  10-15 minutum thvi ad thad er saemilega mikil vinna.
+
+7.Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+ Thu breytir file-um  i working directory. Thu addar hlutum i staging area med git add .
+ og svo committar thu ollu fra staging area yfir i repositoryid thar sem thu geymir file-in sem 
+ thu committar/pushar (what happens when you commit a file vs push a file?).
+ Thar getur thu nad i thau thegar thu hefur internet tengingu.
