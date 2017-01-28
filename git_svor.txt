@@ -52,4 +52,9 @@ https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
  8. Hvenaer er snidugt að nota greinar (branches)?
  T.d. thegar thu ert ad vinna i einhverju sem er ekki tilbuid til ad fara a master eda ert ekki viss hvort thu aetlar ad implement-a thad.
 
- 9.
+ 9. Hver fann upp GIT?
+ Hann heitir Linus Torvalds sem fann lika upp linux.
+
+10. Hvar er GIT helst notad?
+  Thad er helst notad fyrir hugbunadar framleidslu og er notað hja morgum hugbunadar
+  fyrirtaekjum, tolvubrautum i skolum, og forriturum.
