@@ -47,6 +47,9 @@
 7.Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
  Thu breytir file-um  i working directory. Thu addar hlutum i staging area med git add .
- og svo committar thu ollu fra staging area yfir i repositoryid thar sem thu geymir file-in sem 
- thu committar/pushar (what happens when you commit a file vs push a file?).
- Thar getur thu nad i thau thegar thu hefur internet tengingu.
+ og svo committar thu ollu fra staging area yfir i repositoryid thar sem thu geymir file-in sem thu committar. Thegar thu pushar, tha fer allt fra local repo yfir i remote repo. Thar getur thu nad i thau thegar thu hefur internet tengingu.
+
+ 8. Hvenaer er snidugt að nota greinar (branches)?
+ T.d. thegar thu ert ad vinna i einhverju sem er ekki tilbuid til ad fara a master eda ert ekki viss hvort thu aetlar ad implement-a thad.
+
+ 9.
